@@ -15,7 +15,7 @@ A simple Java program where the user tries to guess a randomly generated number 
 ## How to Run
 
 
-git clone https://github.com/your-user/Guess-Number-Game.git
+git clone https://github.com/Elaiyabharathi-P/CODSOFT-GUESS-THE-NUMBER.git
 cd Guess-Number-Game
 javac GuessNumber.java
 java GuessNumber
